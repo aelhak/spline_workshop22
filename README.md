@@ -7,6 +7,6 @@ fbmi100.csv = synthetic longitudinal BMI dataset for 100 females
 
 mbmi100.csv = synthetic longitudinal BMI dataset for 100 males
 
-mbmiAve.csv = synthetic BMI dataset (averaged over all males)
+mbmiAve.csv = synthetic BMI dataset for males (averaged over all subjects)
 
-fbmiAve.csv = synthetic BMI dataset (averaged over all females)
+fbmiAve.csv = synthetic BMI dataset for females (averaged over all subjects)
